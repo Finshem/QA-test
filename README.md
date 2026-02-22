@@ -77,6 +77,8 @@ npx playwright test tests/delivery-filter-test.spec.js
 | `delivery-schedule-test.spec.js` | Data | Selects a warehouse and city on the site, retrieves the delivery timeframe, and validates it against the SQLite database |
 | `support-contact-test.spec.js` | Scenario | Tests the support contact form flow |
 
+Manual test cases are documented in `Manual testing.pdf` included in the repository.
+
 ---
 
 ## SQL Task
