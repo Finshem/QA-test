@@ -65,12 +65,6 @@ npx playwright test
 
 # Run a specific test file
 npx playwright test tests/delivery-filter-test.spec.js
-
-# Run with UI mode
-npx playwright test --ui
-
-# View HTML test report
-npx playwright show-report
 ```
 
 ---
